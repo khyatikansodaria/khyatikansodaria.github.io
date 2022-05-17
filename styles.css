@@ -61,7 +61,7 @@ ul, ol, li {
 
 .header {
   padding: 0 5%;
-  background: url("../watch-front.png") 0% 50%/cover no-repeat;
+  background: url("img/watch-front.png") 0% 50%/cover no-repeat;
   /* height: calc(100vh - 80px); */
 }
 .header__container {
